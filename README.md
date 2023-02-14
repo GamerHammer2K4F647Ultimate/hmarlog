@@ -31,4 +31,4 @@ gcc -o test<.exe> test.o hmarlog.o
 
 ## license
 
-[GPL license](/LICENSE)
+[GPL license](/LICENSE.md)
